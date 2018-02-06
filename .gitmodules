@@ -1,0 +1,3 @@
+[submodule "Nagios_i-2"]
+	path = Nagios_i-2
+	url = https://github.com/vaclmat/Nagios_i.git
